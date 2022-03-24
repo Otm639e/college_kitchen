@@ -1,6 +1,6 @@
 # college_kitchen
 
-Clone app alongside college_kitchen_backend.
+Clone repository alongside college_kitchen_backend (also clone my college_kitchen_backend repository).
 
 Install MongoDB Community Edition at: https://www.mongodb.com/docs/manual/tutorial/install-mongodb-on-os-x/
 
